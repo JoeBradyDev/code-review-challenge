@@ -1,0 +1,11 @@
+{
+  "name": "interview",
+  "private": true,
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel --port 4200 --open"
+  },
+  "devDependencies": {
+    "parcel": "2.8.3"
+  }
+}
